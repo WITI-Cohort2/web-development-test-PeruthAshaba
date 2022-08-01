@@ -1,0 +1,7 @@
+(a). Elements are everything from the start tag to the end tag .
+(b). Attributes refers to anything that provides addition information to an html element. They can be used as links suchas <a>
+(c). Selectors are mainly used in css such as universal selectors, id, class selectors amongothers.
+
+(d). Semantic elements refers to elements with meaning. such as <br>, <h2>,etc. However the <div> and <span> are not semantic elements.
+(e). Web accessibility refers to the different ways of accessing and using wedsites and webpages.
+(f). Web server refers to the browsers used to access websites such as chrome, firefox, safari amongothers.
